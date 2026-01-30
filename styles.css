@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+
+
+.modal{
+	
+	display:none;
+	background-color:white;
+	margin-top:100px;
+	
+	
+}
+.modal-header{
+	display:flex;
+	justify-content:space-between;
+	
+	background-color:green;
+	color:white;
+	
+}
+.close-modal{
+	background-color:red;
+	color:white;
+	width:50px;
+	height:20px;
+}
